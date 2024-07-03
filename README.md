@@ -22,11 +22,11 @@ This project is a continuation of using PowerShell to create users project/repos
 <p align="center">
 
 Go to your Oracle VB Console and find "New" <br/>
-<img src="https://imgur.com/vfDe2YZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-<img src="https://imgur.com/4bLqs5d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
