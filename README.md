@@ -1,7 +1,12 @@
 <h1>Active-Directory-HomeLab-Creating-Windows-Clients</h1>
 
 <h2>Description</h2>
-This project is a continuation of using PowerShell to create users project/repository and will focus on making the clients (computers) on a VM to be added to the domain. See diagram below for reference/network information.
+This project is a continuation of using PowerShell to create users in my previous project/repository and I will focus on making the clients (computers) on a VM to be added to the domain. See diagram below for reference/network information.
+
+<br>
+<br/>
+
+<b>ALL CREDITS ON THIS PROJECT GOES TO JOSH MADAKOR. <b> 
 
 <br/>
 <img src="https://imgur.com/yibftVW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
