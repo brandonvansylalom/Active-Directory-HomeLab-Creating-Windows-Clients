@@ -1,4 +1,4 @@
-<h1>Active-Directory-HomeLab-Creating-Windows-Clients</h1>
+<h1>PART 4: Active-Directory-HomeLab-Creating-Windows-Clients</h1>
 
 <h2>Description</h2>
 This project is a continuation of using PowerShell to create users in my previous project/repository and I will focus on making the clients (computers) on a VM to be added to the domain. See diagram below for reference/network information.
